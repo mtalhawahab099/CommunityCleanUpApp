@@ -1,0 +1,5 @@
+.First of all, you have to run the command "npm install" in backend and community_cleanup folders.
+.Then, open the backend folder in the terminal and run the command "npm run dev" which will result in the initialization of server.
+.Then, in the community_cleanup folder run the command "npx expo start", after this in the terminal section
+ there will be an Ip address in which you have to copy the section which looks likes 192.168.0.103, the numbers in the ip address might get change and paste it in the login page variable which is "api" located in the community_cleanup\app\screens.
+Then, after this you have to scan the bar code in the terminal and the expo app will start. 
