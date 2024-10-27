@@ -126,8 +126,8 @@ The main objectives of our proposed system are as follows:
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | ![Complaints Tracking](screenshots/citizenCompalintTracking.png "Complaints Tracking") | ![Complaint Tracking](screenshots/citizenComplaintTracking1.png "Complaint Tracking") | ![Feedback by Citizen](screenshots/citizenFeedback.png "Feedback by Citizen") | ![Citizen Profile](screenshots/citizenProfile.png "Citizen Profile") | ![Update Password](screenshots/updatePassword.png "Update Password") |
 
-| Delete Account      | Supervisor Home Screen     | Supervisor Complaint Form     | Supervisor Complaint Form     | Supervisor Profile     |
+| Delete Account      | Supervisor Home Screen     | Supervisor Complaint Form     | Supervisor Response     | Supervisor Profile     |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| ![Delete Account](screenshots/deleteAccount.png "Delete Account") | ![Supervisor Home Screen](screenshots/supervisorHome.png "Supervisor Home Screen") | ![Supervisor Complaint Form](screenshots/supervisorComplaintForm.png "Supervisor Complaint Form") | ![Supervisor Complaint Form](screenshots/supervisorCompalintForm1.png "Supervisor Complaint Form") | ![Supervisor Profile](screenshots/supervisorProfile.png "Supervisor Profile") |
+| ![Delete Account](screenshots/deleteAccount.png "Delete Account") | ![Supervisor Home Screen](screenshots/supervisorHome.png "Supervisor Home Screen") | ![Supervisor Complaint Form](screenshots/supervisorComplaintForm.png "Supervisor Complaint Form") | ![Supervisor Response](screenshots/supervisorCompalintForm1.png "Supervisor Response") | ![Supervisor Profile](screenshots/supervisorProfile.png "Supervisor Profile") |
 
 
